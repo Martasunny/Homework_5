@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.AssemblyInfo.cs
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\bin\Debug\net6.0\task_34.exe
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\bin\Debug\net6.0\task_34.deps.json
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\bin\Debug\net6.0\task_34.runtimeconfig.json
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\bin\Debug\net6.0\task_34.dll
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\bin\Debug\net6.0\task_34.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.dll
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\refint\task_34.dll
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\task_34.genruntimeconfig.cache
+D:\Users\User\Desktop\домашняя работа к семинару 5\task_34\obj\Debug\net6.0\ref\task_34.dll
